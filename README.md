@@ -1,5 +1,3 @@
-# tableau-api-kit
-
 # Tableau API Kit  
 Your ultimate starter guide to mastering all of Tableau’s APIs — from REST to JavaScript, Metadata, Hyper, Document API, and more. Automate, integrate, and optimize your Tableau workflows with ease.
 
